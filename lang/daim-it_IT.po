@@ -1,0 +1,2185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: daim\n"
+"POT-Creation-Date: 2018-10-27 11:53+0200\n"
+"PO-Revision-Date: 2018-10-27 11:53+0200\n"
+"Last-Translator: Danilo Andreini <andreini.danilo@gmail.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _n:1,2;_e;__;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-daim-admin.php:189
+msgid "Choose an Option ..."
+msgstr "Scegli un Opzione ..."
+
+#: ../admin/class-daim-admin.php:868
+msgid "IM"
+msgstr "IM"
+
+#: ../admin/class-daim-admin.php:869
+msgid "Interlinks"
+msgstr "Interlinks"
+
+#: ../admin/class-daim-admin.php:878
+msgid "IM - Dashboard"
+msgstr "IM - Dashboard"
+
+#: ../admin/class-daim-admin.php:879
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../admin/class-daim-admin.php:887
+msgid "IM - Juice"
+msgstr "IM - Juice"
+
+#: ../admin/class-daim-admin.php:888 ../admin/view/options.php:33
+msgid "Juice"
+msgstr "Juice"
+
+#: ../admin/class-daim-admin.php:896
+msgid "IM - Hits"
+msgstr "IM - Hits"
+
+#: ../admin/class-daim-admin.php:897
+msgid "Hits"
+msgstr "Hits"
+
+#: ../admin/class-daim-admin.php:905
+msgid "IM - AIL"
+msgstr "IM - AIL"
+
+#: ../admin/class-daim-admin.php:906 ../admin/class-daim-admin.php:3592
+#: ../admin/view/dashboard.php:149 ../admin/view/options.php:30
+msgid "AIL"
+msgstr "AIL"
+
+#: ../admin/class-daim-admin.php:914
+msgid "IM - Options"
+msgstr "IM - Opzioni"
+
+#: ../admin/class-daim-admin.php:915
+msgid "Options"
+msgstr "Opzioni"
+
+#: ../admin/class-daim-admin.php:980 ../admin/view/autolinks.php:360
+#: ../admin/view/autolinks.php:498
+msgid "Open New Tab"
+msgstr "Apri Nuova Tab"
+
+#: ../admin/class-daim-admin.php:994 ../admin/view/autolinks.php:372
+#: ../admin/view/autolinks.php:510
+msgid "Use Nofollow"
+msgstr "Usa Nofollow"
+
+#: ../admin/class-daim-admin.php:1008 ../admin/view/autolinks.php:384
+#: ../admin/view/autolinks.php:522
+msgid "Post Types"
+msgstr "Post Types"
+
+#: ../admin/class-daim-admin.php:1022 ../admin/view/autolinks.php:393
+#: ../admin/view/autolinks.php:531
+msgid "Case Insensitive Search"
+msgstr "Ricerca Case Insensitive"
+
+#: ../admin/class-daim-admin.php:1036 ../admin/view/autolinks.php:405
+#: ../admin/view/autolinks.php:543
+msgid "Left Boundary"
+msgstr "Confine sinistro"
+
+#: ../admin/class-daim-admin.php:1050 ../admin/view/autolinks.php:420
+#: ../admin/view/autolinks.php:558
+msgid "Right Boundary"
+msgstr "Confine Destro"
+
+#: ../admin/class-daim-admin.php:1064 ../admin/view/autolinks.php:435
+#: ../admin/view/autolinks.php:573
+msgid "Limit"
+msgstr "Limite"
+
+#: ../admin/class-daim-admin.php:1078 ../admin/view/autolinks.php:444
+#: ../admin/view/autolinks.php:582
+msgid "Priority"
+msgstr "Priorità"
+
+#: ../admin/class-daim-admin.php:1100
+msgid "Source Post Types"
+msgstr "Sorgente Post Types"
+
+#: ../admin/class-daim-admin.php:1114
+msgid "Results Pool Size"
+msgstr "Dimensione Pool Risultati"
+
+#: ../admin/class-daim-admin.php:1128
+msgid "Titles"
+msgstr "Titoli"
+
+#: ../admin/class-daim-admin.php:1142 ../admin/class-daim-admin.php:3047
+msgid "Categories"
+msgstr "Categorie"
+
+#: ../admin/class-daim-admin.php:1156
+msgid "Tags"
+msgstr "Tag"
+
+#: ../admin/class-daim-admin.php:1170 ../admin/view/dashboard.php:308
+msgid "Post Type"
+msgstr "Post Type"
+
+#: ../admin/class-daim-admin.php:1192
+msgid "Characters per Interlink"
+msgstr "Caratteri per Interlink"
+
+#: ../admin/class-daim-admin.php:1206
+msgid "Optimization Delta"
+msgstr "Delta Ottimizzazione"
+
+#: ../admin/class-daim-admin.php:1228
+msgid "SEO Power (Default)"
+msgstr "SEO Power (Default)"
+
+#: ../admin/class-daim-admin.php:1242
+msgid "Penality per Position (%)"
+msgstr "Penalita per Posizione (%)"
+
+#: ../admin/class-daim-admin.php:1256
+msgid "Remove Link to Anchor"
+msgstr "Rimuovi Link ad Ancora"
+
+#: ../admin/class-daim-admin.php:1270
+msgid "Remove URL Parameters"
+msgstr "Rimuovi Parametri URL"
+
+#: ../admin/class-daim-admin.php:1292
+msgid "Track Internal Links"
+msgstr "Traccia Link Interni"
+
+#: ../admin/class-daim-admin.php:1314
+msgid "Set Max Execution Time"
+msgstr "Imposta Max Execution Time"
+
+#: ../admin/class-daim-admin.php:1328
+msgid "Max Execution Time Value"
+msgstr "Valore Max Execution Time"
+
+#: ../admin/class-daim-admin.php:1342
+msgid "Set Memory Limit"
+msgstr "Imposta Memory Limit"
+
+#: ../admin/class-daim-admin.php:1356
+msgid "Memory Limit Value"
+msgstr "Valore Memory Limit"
+
+#: ../admin/class-daim-admin.php:1370
+msgid "Limit Posts Analysis"
+msgstr "Limita Analisi dei Post"
+
+#: ../admin/class-daim-admin.php:1384
+msgid "Dashboard Post Types"
+msgstr "Dashboard Post Types"
+
+#: ../admin/class-daim-admin.php:1398
+msgid "Juice Post Types"
+msgstr "Juice Post Types"
+
+#: ../admin/class-daim-admin.php:1420
+msgid "Interlinks Options Post Types"
+msgstr "Opzioni Interlinks Post Types"
+
+#: ../admin/class-daim-admin.php:1434
+msgid "Interlinks Optimization Post Types"
+msgstr "Ottimizzazione Interlinks Post Types"
+
+#: ../admin/class-daim-admin.php:1448
+msgid "Interlinks Suggestions Post Types"
+msgstr "Suggerimenti Interlinks Post Types"
+
+#: ../admin/class-daim-admin.php:1470
+msgid "Dashboard Menu"
+msgstr "Dashboard Menu"
+
+#: ../admin/class-daim-admin.php:1484
+msgid "Juice Menu"
+msgstr "Juice Menu"
+
+#: ../admin/class-daim-admin.php:1498
+msgid "Hits Menu"
+msgstr "Hits Menu"
+
+#: ../admin/class-daim-admin.php:1512
+msgid "AIL Menu"
+msgstr "AIL Menu"
+
+#: ../admin/class-daim-admin.php:1526
+msgid "Interlinks Options Meta Box"
+msgstr "Opzioni Interlinks Meta Box"
+
+#: ../admin/class-daim-admin.php:1540
+msgid "Interlinks Optimization Meta Box"
+msgstr "Ottimizzazione Interlinks Meta Box"
+
+#: ../admin/class-daim-admin.php:1554
+msgid "Interlinks Suggestions Meta Box"
+msgstr "Suggerimenti Interlinks Meta Box"
+
+#: ../admin/class-daim-admin.php:1576 ../admin/class-daim-admin.php:3372
+msgid "Enable AIL"
+msgstr "Abilita AIL"
+
+#: ../admin/class-daim-admin.php:1590
+msgid "Filter Priority"
+msgstr "Priorità Filtro"
+
+#: ../admin/class-daim-admin.php:1604
+msgid "Test Mode"
+msgstr "Modalità Test"
+
+#: ../admin/class-daim-admin.php:1618
+msgid "Random Prioritization"
+msgstr "Prioritizzazione Casuale"
+
+#: ../admin/class-daim-admin.php:1632
+msgid "Ignore Self AIL"
+msgstr "Ignora Self AIL"
+
+#: ../admin/class-daim-admin.php:1646
+msgid "General Limit Mode"
+msgstr "Modalità Limite Generale"
+
+#: ../admin/class-daim-admin.php:1660
+msgid "General Limit (Characters per AIL)"
+msgstr "Limite Generale (Caratteri per AIL)"
+
+#: ../admin/class-daim-admin.php:1674
+msgid "General Limit (Amount)"
+msgstr "Limite Generale (Quantità)"
+
+#: ../admin/class-daim-admin.php:1688
+msgid "Same URL Limit"
+msgstr "Limite Stesso URL"
+
+#: ../admin/class-daim-admin.php:1702
+msgid "Protected Tags"
+msgstr "Tag Protetti"
+
+#: ../admin/class-daim-admin.php:1716
+msgid "Protected Gutenberg Blocks"
+msgstr "Blocchi Gutenberg Protetti"
+
+#: ../admin/class-daim-admin.php:1730
+msgid "Protected Gutenberg Custom Blocks"
+msgstr "Blocchi Personalizzati Gutenberg Protetti"
+
+#: ../admin/class-daim-admin.php:1744
+msgid "Protected Gutenberg Custom Void Blocks"
+msgstr "Blocchi Personalizzati Vuoti Gutenberg Protetti"
+
+#: ../admin/class-daim-admin.php:1758
+msgid "Pagination Dashboard Menu"
+msgstr "Paginazione Menu Dashboard"
+
+#: ../admin/class-daim-admin.php:1772
+msgid "Pagination Juice Menu"
+msgstr "Paginazione Menu Juice"
+
+#: ../admin/class-daim-admin.php:1786
+msgid "Pagination Hits Menu"
+msgstr "Paginazione Menu Hits"
+
+#: ../admin/class-daim-admin.php:1800
+msgid "Pagination AIL Menu"
+msgstr "Paginazione Menu AIL"
+
+#: ../admin/class-daim-admin.php:1818 ../admin/class-daim-admin.php:1836
+#: ../admin/class-daim-admin.php:1875 ../admin/class-daim-admin.php:2214
+#: ../admin/class-daim-admin.php:2232 ../admin/class-daim-admin.php:2251
+#: ../admin/class-daim-admin.php:2270 ../admin/class-daim-admin.php:2310
+#: ../admin/class-daim-admin.php:2638 ../admin/class-daim-admin.php:2683
+#: ../admin/class-daim-admin.php:2703 ../admin/class-daim-admin.php:2723
+#: ../admin/class-daim-admin.php:3375 ../admin/view/autolinks.php:363
+#: ../admin/view/autolinks.php:375 ../admin/view/autolinks.php:396
+#: ../admin/view/autolinks.php:501 ../admin/view/autolinks.php:513
+#: ../admin/view/autolinks.php:534
+msgid "No"
+msgstr "No"
+
+#: ../admin/class-daim-admin.php:1819 ../admin/class-daim-admin.php:1837
+#: ../admin/class-daim-admin.php:1876 ../admin/class-daim-admin.php:2215
+#: ../admin/class-daim-admin.php:2233 ../admin/class-daim-admin.php:2252
+#: ../admin/class-daim-admin.php:2271 ../admin/class-daim-admin.php:2311
+#: ../admin/class-daim-admin.php:2639 ../admin/class-daim-admin.php:2684
+#: ../admin/class-daim-admin.php:2705 ../admin/class-daim-admin.php:2724
+#: ../admin/class-daim-admin.php:3376 ../admin/view/autolinks.php:364
+#: ../admin/view/autolinks.php:376 ../admin/view/autolinks.php:397
+#: ../admin/view/autolinks.php:502 ../admin/view/autolinks.php:514
+#: ../admin/view/autolinks.php:535
+msgid "Yes"
+msgstr "Si"
+
+#: ../admin/class-daim-admin.php:1821
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword opens the "
+"linked document in a new tab. This option determines the default value of "
+"the \"Open New Tab\" field available in the AIL menu."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita è aperto in una "
+"nuova tab. Questa opzione determina il valore di default del campo \"Apri "
+"Nuova Tab\" disponibile nel menu AIL."
+
+#: ../admin/class-daim-admin.php:1839
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword will include "
+"the rel=\"nofollow\" attribute. This option determines the default value of "
+"the \"Use Nofollow\" field available in the AIL menu."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita includera "
+"l'attributo rel=\"nofollow\". Questa opzione determina il valore di default "
+"del campo \"Usa Nofollow\" disponibile nel menu \"AIL\"."
+
+#: ../admin/class-daim-admin.php:1854
+msgid ""
+"Enter a list of post types separated by a comma. This option determines the "
+"default value of the \"Post Types\" field available in the AIL menu."
+msgstr ""
+"Inserisci una lista di post types separati da virgola. Questa opzione "
+"determina il valore di default del campo \"Post Types\" disponibile nel menu "
+"AIL."
+
+#: ../admin/class-daim-admin.php:1862
+msgid ""
+"Please enter a valid list of post types separated by a comma in the \"Post "
+"Types\" option."
+msgstr ""
+"Per favore inserisci una lista valida di post types separati da virgola "
+"nella opzione \"Pool Post Types\"."
+
+#: ../admin/class-daim-admin.php:1878
+msgid ""
+"If you select \"Yes\" your keyword will match both lowercase and uppercase "
+"variations. This option determines the default value of the \"Case "
+"Insensitive Search\" field available in the AIL menu."
+msgstr ""
+"Se scegli \"Si\" la keyword verrà applicata sia per le variazioni minuscule "
+"che per le variazioni maiuscole. Questa opzione determina il valore di "
+"default di \"Ricerca Case Insensitive\" disponibile nel menu AIL."
+
+#: ../admin/class-daim-admin.php:1895 ../admin/class-daim-admin.php:1928
+#: ../admin/view/autolinks.php:408 ../admin/view/autolinks.php:423
+#: ../admin/view/autolinks.php:546 ../admin/view/autolinks.php:561
+msgid "Generic"
+msgstr "Generico"
+
+#: ../admin/class-daim-admin.php:1897 ../admin/class-daim-admin.php:1930
+#: ../admin/view/autolinks.php:409 ../admin/view/autolinks.php:424
+#: ../admin/view/autolinks.php:547 ../admin/view/autolinks.php:562
+msgid "White Space"
+msgstr "Spazio Bianco"
+
+#: ../admin/class-daim-admin.php:1899 ../admin/class-daim-admin.php:1932
+#: ../admin/view/autolinks.php:410 ../admin/view/autolinks.php:425
+#: ../admin/view/autolinks.php:548 ../admin/view/autolinks.php:563
+msgid "Comma"
+msgstr "Virgola"
+
+#: ../admin/class-daim-admin.php:1901 ../admin/class-daim-admin.php:1934
+#: ../admin/view/autolinks.php:411 ../admin/view/autolinks.php:426
+#: ../admin/view/autolinks.php:549 ../admin/view/autolinks.php:564
+msgid "Point"
+msgstr "Punto"
+
+#: ../admin/class-daim-admin.php:1903 ../admin/class-daim-admin.php:1936
+#: ../admin/view/autolinks.php:412 ../admin/view/autolinks.php:427
+#: ../admin/view/autolinks.php:550 ../admin/view/autolinks.php:565
+msgid "None"
+msgstr "Nessuno"
+
+#: ../admin/class-daim-admin.php:1905
+msgid ""
+"Use this option to match keywords preceded by a generic boundary or by a "
+"specific character. This option determines the default value of the \"Left "
+"Boundary\" field available in the \"AIL\" menu."
+msgstr ""
+"Utilizza questa opzione per considerare keyword precedute da un confine "
+"generico o da uno specifico carattere. Questa opzione determina il valore di "
+"default del campo \"Confine Sinistro\" disponibile nel menu \"AIL\"."
+
+#: ../admin/class-daim-admin.php:1938
+msgid ""
+"Use this option to match keywords followed by a generic boundary or by a "
+"specific character. This option determines the default value of the \"Right "
+"Boundary\" field available in the \"AIL\" menu."
+msgstr ""
+"Utilizza questa opzione per considerare keyword seguite da un confine "
+"generico o da uno specifico carattere. Questa opzione determina il valore di "
+"default del campo \"Confine Destro\" disponibile nel menu \"AIL\"."
+
+#: ../admin/class-daim-admin.php:1959
+msgid ""
+"With this option you can determine the maximum number of matches of the "
+"defined keyword automatically converted to a link. This option determines "
+"the default value of the \"Limit\" field available in the AIL menu."
+msgstr ""
+"Con questa opzione puoi determinare il numero massimo di occorrenze della "
+"keyword definita automaticamente convertite in link. Questa opzione "
+"determina il valore di default del campo \"Limite\" disponibile nel menu "
+"\"AIL\"."
+
+#: ../admin/class-daim-admin.php:1967
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Max AIL per Keyword "
+"(Default)\" option."
+msgstr ""
+"Per favore inserisci un numero tra 1 e 1000000 nella opzione \"Max AIL per "
+"Keyword (Default)\"."
+
+#: ../admin/class-daim-admin.php:1980
+msgid ""
+"The priority value determines the order used to apply the AIL on the post. "
+"This option determines the default value of the \"Priority\" field available "
+"in the AIL menu."
+msgstr ""
+"Il valore della priorità determina l'ordine utilizzato per applicare gli AIL "
+"nel post. Questa opzione determina il valore di default del campo \"Priorità"
+"\" disponibile nel menu AIL."
+
+#: ../admin/class-daim-admin.php:1989
+msgid ""
+"Please enter a number from 0 to 1000000 in the \"Priority (Default)\" option."
+msgstr ""
+"Per favore inserisci un numero tra 0 e 1000000 nella opzione \"Priorità "
+"(Default)\"."
+
+#: ../admin/class-daim-admin.php:2004
+msgid ""
+"A list of post types, separated by comma, where the algorithm available in "
+"the \"Interlinks Suggestions\" meta box should look for suggestions."
+msgstr ""
+"Una lista di post types, separati da virgola, dove l'algoritmo disponibile "
+"nel meta box \"Suggerimenti Interlinks\" deve cercare i suggerimenti."
+
+#: ../admin/class-daim-admin.php:2013
+msgid ""
+"Please enter a valid list of post types separated by a comma in the \"Pool "
+"Post Types\" option."
+msgstr ""
+"Per favore inserisci una lista valida di post types separati da virgola "
+"nella opzione \"Pool Post Types\"."
+
+#: ../admin/class-daim-admin.php:2026
+msgid ""
+"This option determines the maximum number of results returned by the "
+"algorithm available in the \"Interlinks Suggestions\" meta box. (The five "
+"results shown for each iteration are retrieved from a pool of results which "
+"has, as a maximum size, the value defined with this option.)"
+msgstr ""
+"Questa opzione determina il massimo numero di risultati ritornati "
+"dall'algoritmo disponibile nel meta box \"Suggerimenti Interlinks\". ( I "
+"cinque risultati mostrati per ogni iterazione sono recuperati da un pool di "
+"risultati che, come dimensione massima, ha il valore definito con questa "
+"opzione. )"
+
+#: ../admin/class-daim-admin.php:2035
+msgid "Please enter a number from 5 to 1000000 in the \"Pool Size\" option."
+msgstr ""
+"Per favore inserisci un numero tra 5 e 1000000 nella opzione \"Pool Size\"."
+
+#: ../admin/class-daim-admin.php:2048 ../admin/class-daim-admin.php:2067
+#: ../admin/class-daim-admin.php:2086 ../admin/class-daim-admin.php:2105
+msgid "Consider"
+msgstr "Considera"
+
+#: ../admin/class-daim-admin.php:2049 ../admin/class-daim-admin.php:2068
+#: ../admin/class-daim-admin.php:2087 ../admin/class-daim-admin.php:2106
+msgid "Ignore"
+msgstr "Ignora"
+
+#: ../admin/class-daim-admin.php:2051
+msgid ""
+"Select if the algorithm available in the \"Interlinks Suggestions\" meta box "
+"should consider the posts, pages and custom post types titles."
+msgstr ""
+"Scegli se l'algoritmo disponibile nel meta box \"Suggerimenti Interlinks\" "
+"deve considerare i titoli degli articoli, delle pagine e dei custom post "
+"types."
+
+#: ../admin/class-daim-admin.php:2066 ../admin/class-daim-admin.php:2085
+#: ../admin/class-daim-admin.php:2104
+msgid "Require"
+msgstr "Richiedi"
+
+#: ../admin/class-daim-admin.php:2070
+msgid ""
+"Select if the algorithm available in the \"Interlinks Suggestions\" meta box "
+"should consider the post categories. If \"Required\" is selected the "
+"algorithm will return only posts that have at least one category in common "
+"with the edited post."
+msgstr ""
+"Scegli se l'algoritmo disponibile nel meta box \"Suggerimenti Interlinks\" "
+"deve considerare le categorie dei post. Se \"Richiesto\" è selezionato "
+"l'algoritmo ritornerà solo i post che hanno almeno una categoria in comune "
+"con il post editato."
+
+#: ../admin/class-daim-admin.php:2089
+msgid ""
+"Select if the algorithm available in the \"Interlinks Suggestions\" meta box "
+"should consider the post tags. If \"Required\" is selected the algorithm "
+"will return only posts that have at least one tag in common with the edited "
+"post."
+msgstr ""
+"Scegli se l'algoritmo disponibile nel meta box \"Suggerimenti Interlinks\" "
+"deve considerare i tag del post. Se \"Richiesto\" è selezionato l'algoritmo "
+"ritornerà solo i post che hanno almeno un tag in comune con il post editato."
+
+#: ../admin/class-daim-admin.php:2108
+msgid ""
+"Select if the algorithm available in the \"Interlinks Suggestions\" meta box "
+"should consider the post type. If \"Required\" is selected the algorithm "
+"will return only posts that belong to the same post type of the edited post."
+msgstr ""
+"Scegli se l'algoritmo disponibile nel meta box \"Suggerimenti Interlinks\" "
+"deve considerare il post type. Se \"Richiesto\" è selezionato l'algoritmo "
+"ritornerà solo post che appartengono allo stesso post type del post editato."
+
+#: ../admin/class-daim-admin.php:2125
+msgid ""
+"The \"Recommended Interlinks\" value available in the \"Dashboard\" menu and "
+"in the \"Interlinks Optimization\" meta box is based on the defined "
+"\"Characters per Interlink\" and on the content length of the post. For "
+"example if you define 500 \"Characters per Interlink\", in the \"Dashboard\" "
+"menu, with a post that has a content length of 2000 characters you will get "
+"4 as the value for the \"Recommended Interlinks\"."
+msgstr ""
+"Il valore di \"Interlinks Raccomandati\" disponibile nel menu \"Dashboard\" "
+"e nel meta box \"Ottimizzazione Interlinks\" è basato sul valore definito di "
+"\"Caratteri per Interlink\" e sulla lunghezza del contenuto del post. Per "
+"esempio se tu definisci 500 \"Caratteri per Interlink\", nel menu \"Dashboard"
+"\", con un post che ha una lunghezza di 2000 caratteri avrai 4 come valore "
+"di \"Interlinks Raccomandati\"."
+
+#: ../admin/class-daim-admin.php:2133
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Characters per Interlink\" "
+"option."
+msgstr ""
+"Per favore inserisci un numero tra 1 e 1000000 nella opzione \"Caratteri per "
+"Interlink\"."
+
+#: ../admin/class-daim-admin.php:2146
+msgid ""
+"The \"Optimization Delta\" is used to generate the \"Optimization Flag\" "
+"available in the \"Dashboard\" menu and the text message diplayed in the "
+"\"Interlinks Optimization\" meta box. This option determines how different "
+"can be the actual number of interlinks in a post from the calculated "
+"\"Recommended Interlinks\". This option defines a range, so for example in a "
+"post with 10 \"Recommended Interlinks\" and this option value equal to 4, "
+"the post will be considered optimized when it includes from 8 to 12 "
+"interlinks."
+msgstr ""
+"Il valore di \"Delta Ottimizzazione\" è utilizzato per generare la \"Flag "
+"Ottimizzazione\" disponibile nel menu \"Dashboard\" ed il messaggio di testo "
+"mostrato nel meta box \"Ottimizzazione Interlinks\". Questa opzione "
+"determina quanto differente può essere l'effettivo numero di interlinks in "
+"un post rispetto al valore calcolato di \"Interlinks Raccomandati\". Questa "
+"opzione definisce un intervallo, così per esempio in un post con 10 "
+"\"Interlinks Raccomandati\" e questa opzione con valore uguale a 4, il post "
+"verrà considerato ottimizzato quando include tra 8 e 12 interlinks."
+
+#: ../admin/class-daim-admin.php:2156
+msgid ""
+"Please enter a number from 0 to 1000000 in the \"Optimization Delta\" option."
+msgstr ""
+"Per favore inserisci un numero tra 0 e 1000000 nella opzione \"Delta "
+"Ottimizzazione\"."
+
+#: ../admin/class-daim-admin.php:2170
+msgid ""
+"The \"SEO Power\" is the base value used to calculate the flow of \"Link "
+"Juice\" and this option determines the default \"SEO Power\" value of a "
+"post. You can override this value for specific posts in the \"Interlinks "
+"Options\" meta box."
+msgstr ""
+"Il \"SEO Power\" è il valore base utilizzato per calcolare il flusso di "
+"\"Link Juice\" e questa opzione determina il valore di default di \"SEO Power"
+"\" di un post. Puoi sovrascrivere il valore per uno specifico post con il "
+"meta box \"Opzioni Interlinks\"."
+
+#: ../admin/class-daim-admin.php:2179
+msgid ""
+"Please enter a number from 100 to 1000000 in the \"SEO Power (Default)\" "
+"option."
+msgstr ""
+"Per favore inserisci un numero tra 100 to 1000000 nella opzione \"SEO Power "
+"(Default)\"."
+
+#: ../admin/class-daim-admin.php:2192
+msgid ""
+"With multiple links in an article, the algorithm that calculates the \"Link "
+"Juice\" passed by each link removes a percentage of the passed \"Link Juice"
+"\" based on the position of a link compared to the other links."
+msgstr ""
+"Con interlinks multipli in un articolo, l'algoritmo che calcola il \"Link "
+"Juice\" passato da ogni link rimuove una percentuale del \"Link Juice\" "
+"passato basandosi sulla posizione del link comparata a quella degli altri "
+"link."
+
+#: ../admin/class-daim-admin.php:2201
+msgid ""
+"Please enter a number from 0 to 100 in the \"Penality per position\" option."
+msgstr ""
+"Per favore inserisci un numero tra 0 e 100 nella opzione \"Penalità per "
+"posizione\"."
+
+#: ../admin/class-daim-admin.php:2217
+msgid ""
+"Select \"Yes\" to automatically remove links to anchors from every URL used "
+"to calculate the link juice. With this option enabled \"http://example.com\" "
+"and \"http://example.com#myanchor\" will both contribute to generate link "
+"juice only for a single URL, that is \"http://example.com\"."
+msgstr ""
+"Scegli \"Yes\" per rimuovere automaticamente i link ad ancore da ogni URL "
+"utilizzato per calcolare il link juice. Con questa opzione abilitata "
+"\"http://example.com\" e \"http://example.com#myanchor\" contribuiranno "
+"entrambi a generare link juice solo per il singolo link \"http://example.com"
+"\"."
+
+#: ../admin/class-daim-admin.php:2235
+msgid ""
+"Select \"Yes\" to automatically remove the URL parameters from every URL "
+"used to calculate the link juice. With this option enabled \"http://example."
+"com\" and \"http://example.com?param=1\" will both contribute to generate "
+"link juice only for a single URL, that is \"http://example.com\". Please "
+"note that this option should not be enabled if your website is using URL "
+"parameters to actually identify specific pages. (for example with pretty "
+"permalinks not enabled)"
+msgstr ""
+"Scegli \"Yes\" per rimuovere automaticamente il parametri del URL da ogni "
+"URL utilizzato per calcolare il link juice. Con questa opzione abilitata "
+"\"http://example.com\" e \"http://example.com?param=1\" contribuiranno "
+"entrambi a generare link juice per il solo link \"http://example.com\". Per "
+"favore nota che questa opzione non deve essere abilitata se il tuo sito "
+"utilizza i parametri del URL per identificare specifiche pagine. (per "
+"esempio quando i pretty permalink non sono abilitati)"
+
+#: ../admin/class-daim-admin.php:2254
+msgid ""
+"With this option enabled every click on the manual and auto internal links "
+"will be tracked. The collected data will be available in the \"Hits\" menu."
+msgstr ""
+"Con questa opzione abilitata ogni click sui link manuali ed automatici verrà "
+"tracciato. I data collezionati saranno disponibili nel menu \"Hits\"."
+
+#: ../admin/class-daim-admin.php:2273
+msgid ""
+"Select \"Yes\" to enable your custom \"Max Execution Time Value\" on the "
+"scripts used to analyze your posts."
+msgstr ""
+"Scegli \"Yes\" per abilitare il \"Valore Max Execution Time\" sugli script "
+"utilizzati per analizzare i post."
+
+#: ../admin/class-daim-admin.php:2288
+msgid ""
+"This value determines the maximum number of seconds allowed to execute the "
+"scripts used to analyze your posts."
+msgstr ""
+"Questo valore determina il numero massimo di secondi permessi per eseguire "
+"gli script utilizzati per analizzare i post."
+
+#: ../admin/class-daim-admin.php:2297
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Max Execution Time Value\" "
+"option."
+msgstr ""
+"Per favore inserisci un numero tra 1 e 1000000 nella opzione \"Valore Max "
+"Execution Time\"."
+
+#: ../admin/class-daim-admin.php:2313
+msgid ""
+"Select \"Yes\" to enable your custom \"Memory Limit Value\" on the scripts "
+"used to analyze your posts."
+msgstr ""
+"Scegli \"Yes\" per abilitare il tuo valore personalizzato di \"Valore Memory "
+"Limit\" sugli script utilizzati per analizzare i post."
+
+#: ../admin/class-daim-admin.php:2328
+msgid ""
+"This value determines the PHP memory limit in megabytes allowed to execute "
+"the scripts used to analyze your posts."
+msgstr ""
+"Questo valore determina il limite di memoria PHP (in megabytes) permesso per "
+"eseguire gli script utilizzati per analizzare i post."
+
+#: ../admin/class-daim-admin.php:2337
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Memory Limit Value\" option."
+msgstr ""
+"Per favore inserisci un numero da 1 a 1000000 nella opzione \"Valore Memory "
+"Limit\"."
+
+#: ../admin/class-daim-admin.php:2350
+msgid ""
+"With this options you can determine the maximum number of posts analyzed to "
+"get information about your internal links, to get information about the "
+"internal links juice and to get suggestions in the \"Interlinks Suggestions"
+"\" meta box. If you select for example \"1000\", the analysis performed by "
+"the plugin will use your latest \"1000\" posts."
+msgstr ""
+"Con questa opzione puoi determinare il massimo numero di post analizzati per "
+"recuperare informazioni sui tuoi link interni, per recuperare informazioni "
+"sul link juice e per fornire suggerimenti nel meta box \"Interlinks "
+"Suggestions\". Se scegli per esempio \"1000\", l'analisi effettuata dal "
+"plugin utilizzerà i tuoi ultimi \"1000\" post."
+
+#: ../admin/class-daim-admin.php:2359
+msgid ""
+"Please enter a number from 1 to 100000 in the \"Limit Posts Analysis\" "
+"option."
+msgstr ""
+"Per favore inserisci un numero tra 1 e 100000 nella opzione \"Limite Analisi "
+"Post\"."
+
+#: ../admin/class-daim-admin.php:2372
+msgid ""
+"A list of post types, separated by comma, used to determine the post types "
+"analyzed in the Dashboard menu."
+msgstr ""
+"Una lista di post types, separati da virgola, utilizzata per determinare i "
+"post types analizzati nel menu Dashboard."
+
+#: ../admin/class-daim-admin.php:2381
+msgid ""
+"Please enter a valid list of post types separated by a comma in the "
+"\"Dashboard Post Types\" option."
+msgstr ""
+"Per favore inserisci una lista valida di post types separati da virgola "
+"nella opzione \"Dashboard Post Types\"."
+
+#: ../admin/class-daim-admin.php:2394
+msgid ""
+"A list of post types, separated by comma, used to determine the post types "
+"analyzed in the Juice menu."
+msgstr ""
+"Una lista di post types, separati da virgola, utilizzata per determinare i "
+"post types analizzati nel menu Juice."
+
+#: ../admin/class-daim-admin.php:2403
+msgid ""
+"Please enter a valid list of post types separated by a comma in the \"Juice "
+"Post Types\" option."
+msgstr ""
+"Per favore inserisci una lista valida di post types separati da virgola "
+"nella opzione \"Juice Post Types\"."
+
+#: ../admin/class-daim-admin.php:2417
+msgid ""
+"A list of post types, separated by comma, where the \"Interlinks Options\" "
+"meta box should be loaded."
+msgstr ""
+"Una lista di post types, separati da virgola, dove il meta box \"Opzioni "
+"Interlinks\" deve essere caricato."
+
+#: ../admin/class-daim-admin.php:2426
+msgid ""
+"Please enter a valid list of post types separated by a comma in the "
+"\"Interlinks Options Post Types\" option."
+msgstr ""
+"Per favore inserici una lista valida di post types separati da virgola nella "
+"opzione \"Opzioni Interlinks Post Types\"."
+
+#: ../admin/class-daim-admin.php:2439
+msgid ""
+"A list of post types, separated by comma, where the \"Interlinks Optimization"
+"\" meta box should be loaded."
+msgstr ""
+"Una lista di post types, separati da virgola, dove il meta box "
+"\"Ottimizzazione Interlinks\" deve essere caricato."
+
+#: ../admin/class-daim-admin.php:2448
+msgid ""
+"Please enter a valid list of post types separated by a comma in the "
+"\"Interlinks Optimization Post Types\" option."
+msgstr ""
+"Per favore inserisci una lista valida di post types separati da virgola "
+"nella opzione \"Ottimizzazione Interlinks Post Types\"."
+
+#: ../admin/class-daim-admin.php:2461
+msgid ""
+"A list of post types, separated by comma, where the \"Interlinks Suggestions"
+"\" meta box should be loaded."
+msgstr ""
+"Una lista di post types, separati da virgola, dove il meta box "
+"\"Suggerimenti Interlinks\" deve essere caricato."
+
+#: ../admin/class-daim-admin.php:2470
+msgid ""
+"Please enter a valid list of post types separated by a comma in the "
+"\"Interlinks Suggestions Post Types\" option."
+msgstr ""
+"Per favore inserisci una lista valida di post types separati da virgola "
+"nella opzione \"Suggerimenti Interlinks Post Types\"."
+
+#: ../admin/class-daim-admin.php:2483
+msgid "The capability required to get access on the \"Dashboard\" Menu."
+msgstr "La capability richiesta per avere accesso al menu \"Dashboard\"."
+
+#: ../admin/class-daim-admin.php:2492
+msgid "Please enter a valid capability in the \"Dashboard Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nella opzione \"Dashboard Menu\"."
+
+#: ../admin/class-daim-admin.php:2505
+msgid "The capability required to get access on the \"Juice\" Menu."
+msgstr "La capability richiesta per avere accesso al menu \"Juice\"."
+
+#: ../admin/class-daim-admin.php:2514
+msgid "Please enter a valid capability in the \"Juice Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nella opzione \"Juice Menu\"."
+
+#: ../admin/class-daim-admin.php:2527
+msgid "The capability required to get access on the \"Hits\" Menu."
+msgstr "La capability richiesta per avere accesso al menu \"Hits\"."
+
+#: ../admin/class-daim-admin.php:2536
+msgid "Please enter a valid capability in the \"Hits Menu\" option."
+msgstr ""
+"Per favore inserisci una capability valida nella opzione \"Hits Menu\"."
+
+#: ../admin/class-daim-admin.php:2549
+msgid "The capability required to get access on the \"AIL\" Menu."
+msgstr "La capability richiesta per avere accesso al menu \"AIL\"."
+
+#: ../admin/class-daim-admin.php:2558
+msgid "Please enter a valid capability in the \"AIL Menu\" option."
+msgstr "Per favore inserisci una capability valida nella opzione \"AIL Menu\"."
+
+#: ../admin/class-daim-admin.php:2571
+msgid ""
+"The capability required to get access on the \"Interlinks Options\" Meta Box."
+msgstr ""
+"La capability richiesta per avere accesso al meta box \"Opzioni Interlinks\"."
+
+#: ../admin/class-daim-admin.php:2580
+msgid ""
+"Please enter a valid capability in the \"Interlinks Options Meta Box\" "
+"option."
+msgstr ""
+"Per favore inserisci una capability valida nella opzione \"Interlinks "
+"Options Meta Box\"."
+
+#: ../admin/class-daim-admin.php:2593
+msgid ""
+"The capability required to get access on the \"Interlinks Optimization\" "
+"Meta Box."
+msgstr ""
+"La capability richiesta per avere accesso al meta box \"Ottimizzazione "
+"Interlinks\"."
+
+#: ../admin/class-daim-admin.php:2602
+msgid ""
+"Please enter a valid capability in the \"Interlinks Optimization Meta Box\" "
+"option."
+msgstr ""
+"Per favore inserisci una capability valida nella opzione \"Interlinks "
+"Optimization Meta Box\"."
+
+#: ../admin/class-daim-admin.php:2615
+msgid ""
+"The capability required to get access on the \"Interlinks Suggestions\" Meta "
+"Box."
+msgstr ""
+"La capability richiesta per avere accesso al meta box \"Suggerimenti "
+"Interlinks\"."
+
+#: ../admin/class-daim-admin.php:2624
+msgid ""
+"Please enter a valid capability in the \"Interlinks Suggestions Meta Box\" "
+"option."
+msgstr ""
+"Per favore iserisci una capability valida nella opzione \"Interlinks "
+"Suggestions Meta Box\"."
+
+#: ../admin/class-daim-admin.php:2641
+msgid ""
+"This option determines the default status of the \"Enable AIL\" option "
+"available in the \"Interlinks Options\" meta box."
+msgstr ""
+"Questa opzione determina il valore di default dell'opzione \"Abilita AIL\" "
+"disponibile nel meta box \"Opzioni Interlinks\"."
+
+#: ../admin/class-daim-admin.php:2658
+msgid ""
+"This option determines the priority of the filter used to apply the AIL. A "
+"lower number corresponds with an earlier execution."
+msgstr ""
+"Questa opzione determina la priorità del filtro utilizzato per applicare gli "
+"AIL. Un numero basso corrisponde ad una esecuzione anticipata."
+
+#: ../admin/class-daim-admin.php:2669
+msgid ""
+"Please enter a number from -2147483648 to 2147483646 in the \"Filter Priority"
+"\" option."
+msgstr ""
+"Per favore inserisci un numero tra -2147483648 e 2147483646 nella opzione "
+"\"Priorità Filtro\"."
+
+#: ../admin/class-daim-admin.php:2686
+msgid ""
+"With the test mode enabled the AIL will be applied to your posts, pages or "
+"custom post types only if the user that is requesting the posts, pages or "
+"custom post types has the capability defined with the \"AIL Menu\" option."
+msgstr ""
+"Con la modalità test attivata gli AIL verranno applicati agli articoli, "
+"pagine e custom post types solo se l'utente che sta visualizzando "
+"l'articolo, la pagina o il custom post type possiede la capability definita "
+"nella opzione \"AIL Menu\"."
+
+#: ../admin/class-daim-admin.php:2707
+msgid ""
+"With this option enabled the order used to apply the AIL with the same "
+"priority is randomized on a per-post basis. With this option disabled the "
+"order used to apply the AIL with the same priority is the order used to add "
+"them in the back-end. It's recommended to enable this option for a better "
+"distribution of the AIL."
+msgstr ""
+"Con questa opzione abilitata l'ordine utilizzato per applicare gli AIL con "
+"la stessa priorità è casuale. Con questa opzione disabilitata l'ordine "
+"utilizzato per applicare gli AIL con la stessa priorità è l'ordine "
+"utilizzato per aggiungerli nel back-end. E' consigliato abilitare questa "
+"opzione per ottenere una migliore distribuzione degli AIL."
+
+#: ../admin/class-daim-admin.php:2726
+msgid ""
+"With this option enabled, the AIL, which have as a target the post where "
+"they should be applied, will be ignored."
+msgstr ""
+"Con questa opzione abilitata, gli AIL, che hanno come target il post dove "
+"devono essere applicati, verranno ignorati."
+
+#: ../admin/class-daim-admin.php:2743
+msgid "Auto"
+msgstr "Automatico"
+
+#: ../admin/class-daim-admin.php:2745
+msgid "Manual"
+msgstr "Manuale"
+
+#: ../admin/class-daim-admin.php:2747
+msgid ""
+"If \"Auto\" is selected the maximum number of AIL per post is automatically "
+"generated based on the length of the post, in this case the \"General Limit "
+"(Characters per AIL)\" option is used. If \"Manual\" is selected the maximum "
+"number of AIL per post is equal to the value of the \"General Limit "
+"(Amount)\" option."
+msgstr ""
+"Se \"Automatico\" è selezionato il numero massimo di AIL per post è "
+"automaticamente generato basandosi sulla lunghezza del post ed in questo "
+"caso l'opzione \"Limite Generale (Caratteri per Autolink)\" è utilizzata. Se "
+"\"Manuale\" è selezionato il numero massimo di AIL per post è uguale al "
+"valore specificato nell'opzione \"Limite Generale (Quantità)\"."
+
+#: ../admin/class-daim-admin.php:2766
+msgid ""
+"This value is used to automatically determine the maximum number of AIL per "
+"post when the \"General Limit Mode\" option is set to \"Auto\"."
+msgstr ""
+"Questo valore è utilizzato per determinare automaticamente il massimo numero "
+"di AIL per post quando l'opzione \"Modalità Limite Generale\" è impostata su "
+"\"Automatico\"."
+
+#: ../admin/class-daim-admin.php:2779
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"General Limit (Characters "
+"per AIL)\" option."
+msgstr ""
+"Per favore inserisci un numero tra 1 e 1000000 nella opzione \"Limite "
+"Generale (Caratteri per Autolink)\"."
+
+#: ../admin/class-daim-admin.php:2793
+msgid ""
+"This value determines the maximum number of AIL per post when the \"General "
+"Limit Mode\" option is set to \"Manual\"."
+msgstr ""
+"Questo valore determina il numero massimo di AIL per post quando l'opzione "
+"\"Modalità Limite Generale\" è impostata su \"Manuale\"."
+
+#: ../admin/class-daim-admin.php:2802
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"General Limit (Amount)\" "
+"option."
+msgstr ""
+"Per favore inserisci un numero tra 1 e 1000000 nella opzione \"Limite "
+"Generale (Quantità)\"."
+
+#: ../admin/class-daim-admin.php:2817
+msgid ""
+"This option limits the number of AIL with the same URL to a specific value."
+msgstr ""
+"Questa opzione limita il numero di AIL con lo stesso URL al valore "
+"specificato."
+
+#: ../admin/class-daim-admin.php:2829
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Same URL Limit\" option."
+msgstr ""
+"Per favore inserisci un numero da 1 a 1000000 nella opzione \"Limite Stesso "
+"URL\"."
+
+#: ../admin/class-daim-admin.php:2973
+msgid ""
+"With this option you are able to determine in which HTML tags the AIL should "
+"not be applied."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali tag HTML gli AIL non "
+"devono essere applicati."
+
+#: ../admin/class-daim-admin.php:2999
+msgid "Paragraph"
+msgstr "Paragrafo"
+
+#: ../admin/class-daim-admin.php:3001
+msgid "Image"
+msgstr "Immagine"
+
+#: ../admin/class-daim-admin.php:3003
+msgid "Heading"
+msgstr "Heading"
+
+#: ../admin/class-daim-admin.php:3005
+msgid "Gallery"
+msgstr "Galleria"
+
+#: ../admin/class-daim-admin.php:3007
+msgid "List"
+msgstr "Lista"
+
+#: ../admin/class-daim-admin.php:3009
+msgid "Quote"
+msgstr "Citazione"
+
+#: ../admin/class-daim-admin.php:3011
+msgid "Audio"
+msgstr "Audio"
+
+#: ../admin/class-daim-admin.php:3013
+msgid "Cover Image"
+msgstr "Immagine di copertina"
+
+#: ../admin/class-daim-admin.php:3015
+msgid "Subhead"
+msgstr "Titolo"
+
+#: ../admin/class-daim-admin.php:3017
+msgid "Video"
+msgstr "Video"
+
+#: ../admin/class-daim-admin.php:3019
+msgid "Code"
+msgstr "Codice"
+
+#: ../admin/class-daim-admin.php:3021
+msgid "Custom HTML"
+msgstr "HTML personalizzato"
+
+#: ../admin/class-daim-admin.php:3023
+msgid "Preformatted"
+msgstr "Preformattato"
+
+#: ../admin/class-daim-admin.php:3025
+msgid "Pullquote"
+msgstr "Citazione evidenziata"
+
+#: ../admin/class-daim-admin.php:3027
+msgid "Table"
+msgstr "Tabella"
+
+#: ../admin/class-daim-admin.php:3029
+msgid "Verse"
+msgstr "Verso"
+
+#: ../admin/class-daim-admin.php:3031
+msgid "Button"
+msgstr "Pulsante"
+
+#: ../admin/class-daim-admin.php:3033
+msgid "Columns (Experimentals)"
+msgstr "Colonne (beta)"
+
+#: ../admin/class-daim-admin.php:3035
+msgid "More"
+msgstr "Leggi tutto"
+
+#: ../admin/class-daim-admin.php:3037
+msgid "Page Break"
+msgstr "Interruzione di pagina"
+
+#: ../admin/class-daim-admin.php:3039
+msgid "Separator"
+msgstr "Separatore"
+
+#: ../admin/class-daim-admin.php:3041
+msgid "Spacer"
+msgstr "Spazio vuoto"
+
+#: ../admin/class-daim-admin.php:3043
+msgid "Text Columnns"
+msgstr "Text Columns"
+
+#: ../admin/class-daim-admin.php:3045
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../admin/class-daim-admin.php:3049
+msgid "Latest Posts"
+msgstr "Articoli recenti"
+
+#: ../admin/class-daim-admin.php:3051
+msgid "Embed"
+msgstr "Embed"
+
+#: ../admin/class-daim-admin.php:3053
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/class-daim-admin.php:3055
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../admin/class-daim-admin.php:3057
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/class-daim-admin.php:3059
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../admin/class-daim-admin.php:3061
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../admin/class-daim-admin.php:3063
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../admin/class-daim-admin.php:3065
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../admin/class-daim-admin.php:3067
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../admin/class-daim-admin.php:3069
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../admin/class-daim-admin.php:3071
+msgid "Animoto"
+msgstr "Animoto"
+
+#: ../admin/class-daim-admin.php:3073
+msgid "Cloudup"
+msgstr "Cloudup"
+
+#: ../admin/class-daim-admin.php:3075
+msgid "CollegeHumor"
+msgstr "CollegeHumor"
+
+#: ../admin/class-daim-admin.php:3077
+msgid "DailyMotion"
+msgstr "DailyMotion"
+
+#: ../admin/class-daim-admin.php:3079
+msgid "Funny or Die"
+msgstr "Funny or Die"
+
+#: ../admin/class-daim-admin.php:3081
+msgid "Hulu"
+msgstr "Hulu"
+
+#: ../admin/class-daim-admin.php:3083
+msgid "Imgur"
+msgstr "Imgur"
+
+#: ../admin/class-daim-admin.php:3085
+msgid "Issuu"
+msgstr "Issuu"
+
+#: ../admin/class-daim-admin.php:3087
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+#: ../admin/class-daim-admin.php:3089
+msgid "Meetup.com"
+msgstr "Meetup.com"
+
+#: ../admin/class-daim-admin.php:3091
+msgid "Mixcloud"
+msgstr "Mixcloud"
+
+#: ../admin/class-daim-admin.php:3093
+msgid "Photobucket"
+msgstr "Photobucket"
+
+#: ../admin/class-daim-admin.php:3095
+msgid "Polldaddy"
+msgstr "Polldaddy"
+
+#: ../admin/class-daim-admin.php:3097
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../admin/class-daim-admin.php:3099
+msgid "ReverbNation"
+msgstr "ReverbNation"
+
+#: ../admin/class-daim-admin.php:3101
+msgid "Screencast"
+msgstr "Screencast"
+
+#: ../admin/class-daim-admin.php:3103
+msgid "Scribd"
+msgstr "Scribd"
+
+#: ../admin/class-daim-admin.php:3105
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../admin/class-daim-admin.php:3107
+msgid "SmugMug"
+msgstr "SmugMug"
+
+#: ../admin/class-daim-admin.php:3109
+msgid "Speaker"
+msgstr "Speaker"
+
+#: ../admin/class-daim-admin.php:3111
+msgid "Ted"
+msgstr "Ted"
+
+#: ../admin/class-daim-admin.php:3113
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../admin/class-daim-admin.php:3115
+msgid "VideoPress"
+msgstr "VideoPress"
+
+#: ../admin/class-daim-admin.php:3117
+msgid "WordPress.tv"
+msgstr "WordPress.tv"
+
+#: ../admin/class-daim-admin.php:3120
+msgid ""
+"With this option you are able to determine in which Gutenberg blocks the AIL "
+"should not be applied."
+msgstr ""
+"Con questa opzione sei in grado di determinare in quali blocchi Gutenberg "
+"gli AIL non devono essere applicati."
+
+#: ../admin/class-daim-admin.php:3142
+msgid "Enter a list of Gutenberg custom blocks, separated by a comma."
+msgstr ""
+"Inserisci una lista di blocchi personalizzati Gutenberg, separati da virgola."
+
+#: ../admin/class-daim-admin.php:3155
+msgid ""
+"Please enter a valid list of Gutenberg custom blocks separated by a comma in "
+"the \"Protected Gutenberg Custom Blocks\" option."
+msgstr ""
+"Per favore inserisci una lista valida di blocchi personalizzati Gutenberg "
+"separati da virgola nell'opzione \"Blocchi Gutenberg Protetti\"."
+
+#: ../admin/class-daim-admin.php:3170
+msgid "Enter a list of Gutenberg custom void blocks, separated by a comma."
+msgstr ""
+"Inserisci una lista di blocchi personalizzati vuoti Gutenberg, separati da "
+"virgola."
+
+#: ../admin/class-daim-admin.php:3183
+msgid ""
+"Please enter a valid list of Gutenberg custom void blocks separated by a "
+"comma in the \"Protected Gutenberg Custom Void Blocks\" option."
+msgstr ""
+"Per favore inserisci una lista valida di blocchi personalizzati vuoti "
+"Gutenberg separati da virgola nell'opzione \"Blocchi Personalizzati Vuoti "
+"Gutenberg Protetti\"."
+
+#: ../admin/class-daim-admin.php:3197 ../admin/class-daim-admin.php:3223
+#: ../admin/class-daim-admin.php:3249 ../admin/class-daim-admin.php:3275
+msgid "10"
+msgstr "10"
+
+#: ../admin/class-daim-admin.php:3198 ../admin/class-daim-admin.php:3224
+#: ../admin/class-daim-admin.php:3250 ../admin/class-daim-admin.php:3276
+msgid "20"
+msgstr "20"
+
+#: ../admin/class-daim-admin.php:3199 ../admin/class-daim-admin.php:3225
+#: ../admin/class-daim-admin.php:3251 ../admin/class-daim-admin.php:3277
+msgid "30"
+msgstr "30"
+
+#: ../admin/class-daim-admin.php:3200 ../admin/class-daim-admin.php:3226
+#: ../admin/class-daim-admin.php:3252 ../admin/class-daim-admin.php:3278
+msgid "40"
+msgstr "40"
+
+#: ../admin/class-daim-admin.php:3201 ../admin/class-daim-admin.php:3227
+#: ../admin/class-daim-admin.php:3253 ../admin/class-daim-admin.php:3279
+msgid "50"
+msgstr "50"
+
+#: ../admin/class-daim-admin.php:3202 ../admin/class-daim-admin.php:3228
+#: ../admin/class-daim-admin.php:3254 ../admin/class-daim-admin.php:3280
+msgid "60"
+msgstr "60"
+
+#: ../admin/class-daim-admin.php:3203 ../admin/class-daim-admin.php:3229
+#: ../admin/class-daim-admin.php:3255 ../admin/class-daim-admin.php:3281
+msgid "70"
+msgstr "70"
+
+#: ../admin/class-daim-admin.php:3204 ../admin/class-daim-admin.php:3230
+#: ../admin/class-daim-admin.php:3256 ../admin/class-daim-admin.php:3282
+msgid "80"
+msgstr "80"
+
+#: ../admin/class-daim-admin.php:3205 ../admin/class-daim-admin.php:3231
+#: ../admin/class-daim-admin.php:3257 ../admin/class-daim-admin.php:3283
+msgid "90"
+msgstr "90"
+
+#: ../admin/class-daim-admin.php:3206 ../admin/class-daim-admin.php:3232
+#: ../admin/class-daim-admin.php:3258 ../admin/class-daim-admin.php:3284
+msgid "100"
+msgstr "100"
+
+#: ../admin/class-daim-admin.php:3208
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Dashboard\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Dashboard\"."
+
+#: ../admin/class-daim-admin.php:3234
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Juice\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Juice\"."
+
+#: ../admin/class-daim-admin.php:3260
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Hits\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"Hits\"."
+
+#: ../admin/class-daim-admin.php:3286
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"AIL\" menu."
+msgstr ""
+"Questa opzione determina il numero di elementi per pagina mostrati nel menu "
+"\"AIL\"."
+
+#: ../admin/class-daim-admin.php:3310
+msgid "Interlinks Options"
+msgstr "Opzioni Interlinks"
+
+#: ../admin/class-daim-admin.php:3324
+msgid "Interlinks Optimization"
+msgstr "Ottimizzazione Interlinks"
+
+#: ../admin/class-daim-admin.php:3338
+msgid "Interlinks Suggestions"
+msgstr "Suggerimenti Interlinks"
+
+#: ../admin/class-daim-admin.php:3364
+msgid "SEO Power"
+msgstr "SEO Power"
+
+#: ../admin/class-daim-admin.php:3367
+msgid "The SEO Power of this post."
+msgstr "Il SEO Power di questo post."
+
+#: ../admin/class-daim-admin.php:3378
+msgid "Select \"Yes\" to enable the AIL in this post."
+msgstr "Scegli \"Si\" per abilitare gli AIL in questo post."
+
+#: ../admin/class-daim-admin.php:3427
+msgid ""
+"Click the \"Generate\" button multiple times until you can find posts "
+"suitable to be used as interlinks of this post."
+msgstr ""
+"Clicca il pulsante \"Genera\" più volte finché trovi dei post adatti ad "
+"essere utilzzati come interlinks di questo post."
+
+#: ../admin/class-daim-admin.php:3441
+msgid "Generate"
+msgstr "Genera"
+
+#: ../admin/class-daim-admin.php:3587 ../admin/class-daim-admin.php:3809
+#: ../admin/view/dashboard.php:129 ../admin/view/hits.php:97
+msgid "Post"
+msgstr "Post"
+
+#: ../admin/class-daim-admin.php:3588 ../admin/class-daim-admin.php:3810
+#: ../admin/view/dashboard.php:133 ../admin/view/dashboard.php:306
+#: ../admin/view/hits.php:101
+msgid "Date"
+msgstr "Data"
+
+#: ../admin/class-daim-admin.php:3589 ../admin/view/dashboard.php:137
+msgid "PT"
+msgstr "PT"
+
+#: ../admin/class-daim-admin.php:3590 ../admin/view/dashboard.php:141
+msgid "CL"
+msgstr "CL"
+
+#: ../admin/class-daim-admin.php:3591 ../admin/view/dashboard.php:145
+msgid "MIL"
+msgstr "MIL"
+
+#: ../admin/class-daim-admin.php:3593 ../admin/view/dashboard.php:153
+msgid "RI"
+msgstr "RI"
+
+#: ../admin/class-daim-admin.php:3594
+msgid "VS"
+msgstr "VS"
+
+#: ../admin/class-daim-admin.php:3595 ../admin/view/dashboard.php:160
+msgid "OF"
+msgstr "OF"
+
+#: ../admin/class-daim-admin.php:3667 ../admin/view/juice.php:81
+msgid "URL"
+msgstr "URL"
+
+#: ../admin/class-daim-admin.php:3668 ../admin/view/juice.php:85
+msgid "IIL"
+msgstr "IIL"
+
+#: ../admin/class-daim-admin.php:3669 ../admin/view/juice.php:89
+msgid "Juice (Value)"
+msgstr "Juice (Valore)"
+
+#: ../admin/class-daim-admin.php:3740
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../admin/class-daim-admin.php:3741
+msgid "Link Juice"
+msgstr "Link Juice"
+
+#: ../admin/class-daim-admin.php:3742
+msgid "Link Content"
+msgstr "Contenuto Link"
+
+#: ../admin/class-daim-admin.php:3811 ../admin/view/autolinks.php:265
+#: ../admin/view/hits.php:105
+msgid "Target"
+msgstr "Target"
+
+#: ../admin/class-daim-admin.php:3812 ../admin/view/hits.php:109
+msgid "Type"
+msgstr "Tipo"
+
+#: ../admin/view/autolinks.php:4 ../admin/view/dashboard.php:4
+#: ../admin/view/hits.php:4 ../admin/view/juice.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi sufficienti per accedere a questa pagina."
+
+#: ../admin/view/autolinks.php:21
+msgid "Please enter a valid value in the \"Keyword\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Keyword\"."
+
+#: ../admin/view/autolinks.php:30 ../admin/view/autolinks.php:41
+msgid "The specified keyword is not allowed."
+msgstr "La keyword specificata non è permessa."
+
+#: ../admin/view/autolinks.php:50
+msgid ""
+"Please enter a valid URL Path and/or File in the \"Target\" field. ( the URL "
+"scheme and domain are implied )"
+msgstr ""
+"Per favore inserisci il percorso dell'URL e/o File. (lo schema ed il dominio "
+"dell'URL sono impliciti)"
+
+#: ../admin/view/autolinks.php:56
+msgid "Please enter a valid value in the \"Title\" field."
+msgstr "Per favore inserisci un valore valido nel campo \"Titolo\"."
+
+#: ../admin/view/autolinks.php:62
+msgid ""
+"Please enter a valid list of post types separated by a comma in the \"Post "
+"Types\" field."
+msgstr ""
+"Per favore inserisci una lista valida di post types separati da una virgola "
+"nella opzione \"Post Types\"."
+
+#: ../admin/view/autolinks.php:68
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Max Number AIL\" field."
+msgstr ""
+"Per favore inserisci un numero tra 1 e 1000000 nella opzione \"Massimo "
+"Numero AIL\"."
+
+#: ../admin/view/autolinks.php:74
+msgid "Please enter a number from 0 to 1000000 in the \"Priority\" field."
+msgstr ""
+"Per favore inserisci un numero tra 0 e 1000000 nella opzione \"Priorità \"."
+
+#: ../admin/view/autolinks.php:154
+msgid "The autolink has been successfully added."
+msgstr "Autolink creato con successo."
+
+#: ../admin/view/autolinks.php:196
+msgid "Interlinks Manager - AIL"
+msgstr "Interlinks Manager - AIL"
+
+#: ../admin/view/autolinks.php:207 ../admin/view/hits.php:44
+#: ../admin/view/juice.php:28
+msgid "Search..."
+msgstr "Cerca..."
+
+#: ../admin/view/autolinks.php:261 ../admin/view/autolinks.php:333
+#: ../admin/view/autolinks.php:471
+msgid "Keyword"
+msgstr "Keyword"
+
+#: ../admin/view/autolinks.php:262 ../admin/view/autolinks.php:336
+#: ../admin/view/autolinks.php:474
+msgid "The keyword that will be converted to a link."
+msgstr "La keyword che verrà convertita in un link."
+
+#: ../admin/view/autolinks.php:266
+msgid "The target of the link automatically generated on the keyword."
+msgstr "Il target del link generato automaticamente sulla keyword."
+
+#: ../admin/view/autolinks.php:297 ../admin/view/dashboard.php:220
+#: ../admin/view/hits.php:158 ../admin/view/juice.php:145
+msgid "items"
+msgstr "record"
+
+#: ../admin/view/autolinks.php:308 ../admin/view/hits.php:145
+#: ../admin/view/juice.php:132
+msgid "There are no results that match your search."
+msgstr "Non ci sono risultati che soddisfano i tuoi criteri di ricerca."
+
+#: ../admin/view/autolinks.php:325
+msgid "Edit AIL"
+msgstr "Modifica AIL"
+
+#: ../admin/view/autolinks.php:335 ../admin/view/autolinks.php:473
+msgid "The Keyword"
+msgstr "La Keyword"
+
+#: ../admin/view/autolinks.php:342 ../admin/view/autolinks.php:480
+msgid "Target (URL Path and/or File)"
+msgstr "Target (Percorso URL e/o File)"
+
+#: ../admin/view/autolinks.php:344 ../admin/view/autolinks.php:482
+msgid "/hello-world/"
+msgstr "/ciao-mondo/"
+
+#: ../admin/view/autolinks.php:345 ../admin/view/autolinks.php:483
+msgid ""
+"The target of the link automatically generated on the keyword. Please note "
+"that the URL scheme and domain are implied."
+msgstr ""
+"Il target del link automaticamente generato sulla keyword. Per favore nota "
+"che lo schema ed il dominio dell'URL sono impliciti."
+
+#: ../admin/view/autolinks.php:351 ../admin/view/autolinks.php:489
+#: ../admin/view/dashboard.php:307
+msgid "Title"
+msgstr "Titolo"
+
+#: ../admin/view/autolinks.php:354 ../admin/view/autolinks.php:492
+msgid "The title attribute of the link automatically generated on the keyword."
+msgstr "L'attributo titolo del link generato automaticamente sulla keyword."
+
+#: ../admin/view/autolinks.php:366 ../admin/view/autolinks.php:504
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword opens the "
+"linked document in a new tab."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita è aperto in una "
+"nuova tab."
+
+#: ../admin/view/autolinks.php:378 ../admin/view/autolinks.php:516
+msgid ""
+"If you select \"Yes\" the link generated on the defined keyword will include "
+"the rel=\"nofollow\" attribute."
+msgstr ""
+"Se scegli \"Si\" il link generato sulla keyword definita includerà "
+"l'attributo rel=\"nofollow\"."
+
+#: ../admin/view/autolinks.php:386 ../admin/view/autolinks.php:524
+msgid "The Activate Post Types"
+msgstr "The Activate Post Types"
+
+#: ../admin/view/autolinks.php:387 ../admin/view/autolinks.php:525
+msgid ""
+"Enter a list of post types separated by a comma. With this option you are "
+"able to determine in which post types the defined keyword will be "
+"automatically converted to a link."
+msgstr ""
+"Inserisci una lista di post types separati da virgola. Questa opzione "
+"determina in quali post types la keyword definita verrà automaticamente "
+"convertita in un link."
+
+#: ../admin/view/autolinks.php:399 ../admin/view/autolinks.php:537
+msgid ""
+"If you select \"Yes\" your keyword will match both lowercase and uppercase "
+"variations."
+msgstr ""
+"Se scegli \"Si\" la keyword verrà applicata sia per le variazioni minuscule "
+"che per le variazioni maiuscole."
+
+#: ../admin/view/autolinks.php:414 ../admin/view/autolinks.php:552
+msgid ""
+"The \"Left Boundary\" option can be used to target keywords preceded by a "
+"generic boundary or by a specific character."
+msgstr ""
+"Questa opzione può essere utilizzata per considerare delle keyword precedute "
+"da un confine generico o da uno specifico carattere."
+
+#: ../admin/view/autolinks.php:429 ../admin/view/autolinks.php:567
+msgid ""
+"The \"Right Boundary\" option can be used to target keywords followed by a "
+"generic boundary or by a specific character."
+msgstr ""
+"Questa opzione può essere utilizzata per considerare delle keyword seguite "
+"da un confine generico o da uno specifico carattere."
+
+#: ../admin/view/autolinks.php:437 ../admin/view/autolinks.php:575
+msgid "The Max Number of Autolinks"
+msgstr "Il numero massimo di link automatici"
+
+#: ../admin/view/autolinks.php:438 ../admin/view/autolinks.php:576
+msgid ""
+"With this option you can determine the maximum number of matches of the "
+"defined keyword automatically converted to a link."
+msgstr ""
+"Con questa opzione puoi determinare il numero massimo di occorrenze della "
+"keyword definita automaticamente convertite in link."
+
+#: ../admin/view/autolinks.php:446
+msgid "The Priority"
+msgstr "La priorità"
+
+#: ../admin/view/autolinks.php:447 ../admin/view/autolinks.php:585
+msgid ""
+"The priority value determines the order used to apply the AIL on the post."
+msgstr ""
+"Il valore della priorità determina l'ordine utilizzato per applicare gli AIL "
+"nel post."
+
+#: ../admin/view/autolinks.php:455
+msgid "Update Autolink"
+msgstr "Aggiorna Autolink"
+
+#: ../admin/view/autolinks.php:456
+msgid "Cancel"
+msgstr "Annulla"
+
+#: ../admin/view/autolinks.php:465
+msgid "Create New AIL"
+msgstr "Crea Nuovo AIL"
+
+#: ../admin/view/autolinks.php:584
+msgid "The Priority of this Keyword"
+msgstr "La priorità di questa keyword"
+
+#: ../admin/view/autolinks.php:593
+msgid "Add Autolink"
+msgstr "Aggiungi Autolink"
+
+#: ../admin/view/dashboard.php:130
+msgid "The post, page or custom post type title."
+msgstr "Il titolo dell'articolo, pagina o custom post type."
+
+#: ../admin/view/dashboard.php:134
+msgid "The post, page or custom post type publishing date."
+msgstr "La data di pubblicazione dell'articolo, pagina o custom post type."
+
+#: ../admin/view/dashboard.php:138
+msgid "The post type."
+msgstr "Il post type."
+
+#: ../admin/view/dashboard.php:142
+msgid "The length of the raw (with filters not applied) post content."
+msgstr "La lunghezza grezza (con filtri non applicati) del contenuto del post."
+
+#: ../admin/view/dashboard.php:146
+msgid "The manual internal links of the post."
+msgstr "I link interni manuali del post."
+
+#: ../admin/view/dashboard.php:150
+msgid "The auto internal links of the post."
+msgstr "I link interni automatici del post."
+
+#: ../admin/view/dashboard.php:154
+msgid ""
+"The recommended number of interlinks. This value is based on the post length "
+"and on the \"Characters per Interlink\" option that you defined on the "
+"plugin options."
+msgstr ""
+"Il numero raccomandato di interlinks. Questo valore è basato sulla lunghezza "
+"del post e sulla opzione \"Caratteri per Interlink\" definita nelle opzioni "
+"del plugin."
+
+#: ../admin/view/dashboard.php:157
+msgid "VG"
+msgstr "VG"
+
+#: ../admin/view/dashboard.php:158
+msgid "The number of visits generated with the internal links of this post."
+msgstr "Il numero di visite generate con i link interni di questo post."
+
+#: ../admin/view/dashboard.php:161
+msgid ""
+"The \"Optimization Flag\" is based on the post length, on the \"Characters "
+"per Interlink\" option and on the \"Optimization Delta\" option that you "
+"defined on the plugin options."
+msgstr ""
+"La \"Flag Ottimizzazione\" è basata sulla lunghezza del post, sulla opzione "
+"\"Caratteri per Interlink\" e sulla opzione \"Delta Ottimizzazione\" "
+"definite nelle opzioni del plugin."
+
+#: ../admin/view/dashboard.php:207
+msgid "There are no results that match your filter criteria."
+msgstr "Non ci sono risultati che soddisfano i criteri del tuo filtro."
+
+#: ../admin/view/dashboard.php:209
+msgid ""
+"There are no data at moment, click on the \"Generate Data\" button to "
+"generate data and statistics about the internal links of your blog."
+msgstr ""
+"Non ci sono dati al momento. Clicca sul pulsante \"Genera Dati\" per "
+"generare dati e statistiche relativi ai link interni del tuo blog."
+
+#: ../admin/view/dashboard.php:236
+msgid ""
+"This procedure allows you to generate data and statistics about the internal "
+"links of your blog."
+msgstr ""
+"Questa procedura ti permette di generare dati e statistiche relative ai link "
+"interni del blog."
+
+#: ../admin/view/dashboard.php:242 ../admin/view/juice.php:167
+msgid "Generate Data"
+msgstr "Genera Dati"
+
+#: ../admin/view/dashboard.php:250 ../admin/view/hits.php:190
+#: ../admin/view/juice.php:175
+msgid "Export CSV"
+msgstr "Esporta CSV"
+
+#: ../admin/view/dashboard.php:254 ../admin/view/hits.php:194
+#: ../admin/view/juice.php:179
+msgid ""
+"The downloaded CSV file can be imported in your favorite spreadsheet "
+"software."
+msgstr ""
+"Il file CSV scaricabile può essere importato nel tuo software spreadsheet "
+"preferito."
+
+#: ../admin/view/dashboard.php:264 ../admin/view/hits.php:204
+#: ../admin/view/juice.php:189
+msgid "Download"
+msgstr "Scarica"
+
+#: ../admin/view/dashboard.php:273
+msgid "Filter & Sort"
+msgstr "Filtra e Ordina"
+
+#: ../admin/view/dashboard.php:281
+msgid "Search"
+msgstr "Cerca"
+
+#: ../admin/view/dashboard.php:293 ../admin/view/dashboard.php:312
+#: ../admin/view/options.php:32
+msgid "Optimization"
+msgstr "Ottimizzazione"
+
+#: ../admin/view/dashboard.php:296
+msgid "All"
+msgstr "Tutti"
+
+#: ../admin/view/dashboard.php:297
+msgid "Not Optimized"
+msgstr "Non Ottimizzati"
+
+#: ../admin/view/dashboard.php:298
+msgid "Optimized"
+msgstr "Ottimizzati"
+
+#: ../admin/view/dashboard.php:303
+msgid "Sort By"
+msgstr "Ordina Per"
+
+#: ../admin/view/dashboard.php:309
+msgid "Content Length"
+msgstr "Lunghezza Contenuto"
+
+#: ../admin/view/dashboard.php:310
+msgid "Manual Interlinks"
+msgstr "Interlinks Manuali"
+
+#: ../admin/view/dashboard.php:311
+msgid "Auto Interlinks"
+msgstr "Interlinks Automatici"
+
+#: ../admin/view/dashboard.php:317
+msgid "Order"
+msgstr "Ordine"
+
+#: ../admin/view/dashboard.php:320
+msgid "Descending"
+msgstr "Discendente"
+
+#: ../admin/view/dashboard.php:321
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: ../admin/view/dashboard.php:328
+msgid "Apply Query"
+msgstr "Applica Query"
+
+#: ../admin/view/hits.php:21
+msgid "Data succesfully deleted."
+msgstr "Dati cancellatti con successo."
+
+#: ../admin/view/hits.php:33
+msgid "Interlinks Manager - Hits"
+msgstr "Interlinks Manager - Hits"
+
+#: ../admin/view/hits.php:98
+msgid ""
+"The post, page or custom post type that includes the link that received a "
+"click."
+msgstr "Il post che include il link che ha ricevuto il click."
+
+#: ../admin/view/hits.php:102
+msgid "The date on which the link has been clicked."
+msgstr "La data nella quale il link è stato cliccato."
+
+#: ../admin/view/hits.php:106
+msgid "The target of the clicked link."
+msgstr "Il target del link cliccato."
+
+#: ../admin/view/hits.php:110
+msgid ""
+"The type of the clicked link, \"MIL\" for the manual internal links and \"AIL"
+"\" for the auto internal links."
+msgstr ""
+"Il tipo di link cliccato, \"MIL\" per i link interni manuali e \"AIL\" per i "
+"link interni automatici."
+
+#: ../admin/view/hits.php:147
+msgid "There are no hits at the moment."
+msgstr "Non ci sono hits al momento."
+
+#: ../admin/view/hits.php:170
+msgid "Reset Hits"
+msgstr "Cancella Hits"
+
+#: ../admin/view/hits.php:174
+msgid "This procedure allows you to reset the hits."
+msgstr "Questa procedura ti permette di cancellare gli hits."
+
+#: ../admin/view/hits.php:181
+msgid "Reset"
+msgstr "Cancella"
+
+#: ../admin/view/juice.php:17
+msgid "Interlinks Manager - Juice"
+msgstr "Interlinks Manager - Juice"
+
+#: ../admin/view/juice.php:82
+msgid "The URL that receives the link juice."
+msgstr "L'URL che riceve il link juice."
+
+#: ../admin/view/juice.php:86
+msgid "The number of internal inbound links received by the URL."
+msgstr "Il numero di link interni inbound ricevuti dall'URL."
+
+#: ../admin/view/juice.php:90
+msgid "The link juice received by the URL."
+msgstr "Il link juice ricevuto dall'URL."
+
+#: ../admin/view/juice.php:93
+msgid "Juice (Visual)"
+msgstr "Juice (Visuale)"
+
+#: ../admin/view/juice.php:94
+msgid "The visual representation of the link juice received by the URL."
+msgstr "La rappresentazione visuale del link juice ricevuto dall'URL."
+
+#: ../admin/view/juice.php:115
+msgid ""
+"Download a CSV file that includes a list of the links that contribute to "
+"generate the overall link juice of this URL."
+msgstr ""
+"Scarica un file CSV che include una lista dei link che hanno contribuito a "
+"generare il link juice complessivo di questo URL."
+
+#: ../admin/view/juice.php:134
+msgid ""
+"There are no data at moment, click on the \"Generate Data\" button to "
+"generate data about the flow of \"Link Juice\" on the URLs of your website."
+msgstr ""
+"Non ci sono dati al momento. Clicca sul pulsante \"Genera Dati\" per "
+"generare dati relativi al flusso di \"Link Juice\" verso gli URL del tuo "
+"sito."
+
+#: ../admin/view/juice.php:157
+msgid "Juice Data"
+msgstr "Juice Data"
+
+#: ../admin/view/juice.php:161
+msgid ""
+"This procedure allows you to generate data about the flow of \"Link Juice\" "
+"on the URLs of your website."
+msgstr ""
+"Questa procedura ti permette di generare i dati relativi al flusso di \"Link "
+"Juice\" verso gli URL del tuo sito."
+
+#: ../admin/view/options.php:4
+msgid "You do not have sufficient capabilities to access this page."
+msgstr "Non hai le capability sufficienti per accedere a questa pagina."
+
+#: ../admin/view/options.php:31
+msgid "Suggestions"
+msgstr "Suggerimenti"
+
+#: ../admin/view/options.php:34
+msgid "Tracking"
+msgstr "Tracking"
+
+#: ../admin/view/options.php:35
+msgid "Analysis"
+msgstr "Analisi"
+
+#: ../admin/view/options.php:36
+msgid "Meta Boxes"
+msgstr "Meta Box"
+
+#: ../admin/view/options.php:37
+msgid "Capabilities"
+msgstr "Capability"
+
+#: ../admin/view/options.php:38
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: ../admin/view/options.php:111
+msgid "Save Changes"
+msgstr "Salva Cambiamenti"
+
+#: ../class-daim-ajax.php:921
+msgid ""
+"There are no interlinks suggestions at the moment, please use this "
+"functionality when you have at least five posts (other than the current one) "
+"that match the criteria you defined in the \"Suggestions\" options."
+msgstr ""
+"Non ci sono interlinks suggeriti al momento, per favore utilizza questa "
+"funzionalità quando ci sono almeno cinque post (oltre a quello corrente) che "
+"soddisfano i criteri che hai definito nella sezione \"Suggerimenti\"."
+
+#: ../shared/class-daim-shared.php:1282
+msgid "The number of interlinks included in this post is optimized."
+msgstr "Il numero di interlink inclusi in questo post è ottimizzato."
+
+#: ../shared/class-daim-shared.php:1284
+msgid "Please optimize the number of interlinks, this post currently has"
+msgstr ""
+"Per favore ottimizza il numero di interlinks, questo post al momento ha"
+
+#: ../shared/class-daim-shared.php:1284
+msgid "interlink"
+msgid_plural "interlinks"
+msgstr[0] "interlink"
+msgstr[1] "interlink"
+
+#: ../shared/class-daim-shared.php:1284
+msgid "manual interlink"
+msgid_plural "manual interlinks"
+msgstr[0] "interlink manuale"
+msgstr[1] "interlink manuali"
+
+#: ../shared/class-daim-shared.php:1284 ../shared/class-daim-shared.php:1288
+msgid "and"
+msgstr "e"
+
+#: ../shared/class-daim-shared.php:1284
+msgid "auto interlink"
+msgid_plural "auto interlinks"
+msgstr[0] "interlink automatico"
+msgstr[1] "interlink automatici"
+
+#: ../shared/class-daim-shared.php:1286
+msgid "Based on the content length and on your options their number should be"
+msgstr ""
+"Basandosi sulla lunghezza del post e sulle opzioni correnti il loro numero "
+"deve essere"
+
+#: ../shared/class-daim-shared.php:1288
+msgid ""
+"Based on the content length and on your options their number should be "
+"included between"
+msgstr ""
+"Basandosi sulla lunghezza del post e sulle opzioni correnti il loro numero "
+"deve essere incluso tra"
+
+#~ msgid ""
+#~ "This option determines the default value of the \"Open New Tab\" field "
+#~ "available in the AIL menu."
+#~ msgstr ""
+#~ "Questa opzione determina il valore di default del campo \"Apri Nuova Tab"
+#~ "\" disponibile nel menu AIL."
+
+#~ msgid ""
+#~ "This option determines the default value of the \"Use Nofollow\" field "
+#~ "available in the AIL menu."
+#~ msgstr ""
+#~ "Questa opzione determina il valore di default del campo \"Use Nofollow\" "
+#~ "disponibile nel menu AIL."
+
+#~ msgid ""
+#~ "This option determines the default value of the \"Limit\" field available "
+#~ "in the AIL menu."
+#~ msgstr ""
+#~ "Questa opzione determina il valore di default del campo \"Limite\" "
+#~ "disponibile nel menu AIL."
+
+#~ msgid ""
+#~ "This option determines the default value of the \"Priority\" field "
+#~ "available in the AIL menu."
+#~ msgstr ""
+#~ "Questa opzione determina il valore di default del campo \"Priorità\" "
+#~ "disponibile nel menu AIL."
+
+#~ msgid "Activate Post Types"
+#~ msgstr "Attiva Post Types"
+
+#~ msgid "Max Number AIL"
+#~ msgstr "Massimo Numero AIL"
+
+#~ msgid "General Limit (Max AIL per Post)"
+#~ msgstr "Limite Generale (Max AIL per Post)"
+
+#~ msgid ""
+#~ "Please enter a valid list of post types separated by a comma in the "
+#~ "\"Default Activate Post Types\" option."
+#~ msgstr ""
+#~ "Per favore inserisci una lista valida di post types separati da una "
+#~ "virgola nella opzione \"Default Activate Post Types\"."
+
+#~ msgid ""
+#~ "This option determines the default value of the \"Max Number AIL\" field "
+#~ "available in the AIL menu."
+#~ msgstr ""
+#~ "Questa opzione determina il valore di default del campo \"Massimo Numero "
+#~ "AIL\" disponibile nel menu AIL."
+
+#~ msgid ""
+#~ "Please enter a number from 1 to 1000000 in the \"Max AIL per Post\" "
+#~ "option."
+#~ msgstr ""
+#~ "Per favore inserisci un numero tra 1 e 1000000 nella opzione \"Max AIL "
+#~ "per Post\"."
+
+#~ msgid ""
+#~ "The priority value determines the order of the substitutions of the "
+#~ "keywords. If there are multiple keywords in a post and the \"Max AIL per "
+#~ "Post\" option does not allow to generate autolinks for all the keywords, "
+#~ "you can increase the priority of a specific keyword to make sure that in "
+#~ "this particular situation that keyword has a priority over the others and "
+#~ "gets actually converted to a link."
+#~ msgstr ""
+#~ "Il valore della priorità determina in quale ordine vengono sostituite le "
+#~ "keyword. Se ci sono multiple keyword in un post e \"Max AIL per Post\" "
+#~ "non permette di generare link automatici per tutte le keyword, puoi "
+#~ "incrementare la priorità di una specifica keyword per assicurarti che in "
+#~ "questa particolare situazione la keyword abbia priorità sulle altre e "
+#~ "venga effettivamente convertita in un link. "
+
+#~ msgid "afsfd"
+#~ msgstr "tradotta"
+
+#~ msgid "provono"
+#~ msgstr "ecco bella"
+
+#~ msgid "manual "
+#~ msgstr "manuali"
+
+#~ msgid " and"
+#~ msgstr "e"
+
+#~ msgid "auto "
+#~ msgstr "auto"
+
+#~ msgid "Activate Post Types (Default)"
+#~ msgstr "Attiva Post Types (Default)"
+
+#~ msgid "Max AIL per Keyword (Default)"
+#~ msgstr "Max AIL per Keyword (Default)"
+
+#~ msgid "Case Insensitive Search (Default)"
+#~ msgstr "Ricerca Case Insensitive (Default)"
+
+#~ msgid "Open New Tab (Default)"
+#~ msgstr "Apri Nuova Tab (Default)"
+
+#~ msgid "Use Nofollow (Default)"
+#~ msgstr "Usa Nofollow (Default)"
+
+#~ msgid "Priority (Default)"
+#~ msgstr "Priorità (Default)"
+
+#~ msgid "Enable AIL (Default)"
+#~ msgstr "Abilita AIL (Default)"
+
+#~ msgid ""
+#~ "Please enter a number from 1 to 1000000. This option determines the "
+#~ "default value of the \"Max Number AIL\" field available in the AIL menu."
+#~ msgstr ""
+#~ "Per favore inserisci un numero tra 1 e 1000000. Questa opzione determina "
+#~ "il valore di default del campo \"Massimo numero AIL\" disponibile nel "
+#~ "menu AIL."
+
+#~ msgid ""
+#~ "Please enter number from 1 to 1000000. This option determines the maximum "
+#~ "number of autolinks per post."
+#~ msgstr ""
+#~ "Per favore inserisci un numero tra 1 e 1000000. Questa opzione determina "
+#~ "il massimo numero di autolinks per post."
+
+#~ msgid ""
+#~ "Enter a list of tags, separated by a comma, where the AIL should not be "
+#~ "applied."
+#~ msgstr ""
+#~ "Inserisci una lista di tag, separati da virgola, per indicare dove gli "
+#~ "AIL non devono essere applicati."
+
+#~ msgid ""
+#~ "There are no data at moment, click on the \"Update\" button to generate a "
+#~ "database with all the internal links of you website."
+#~ msgstr ""
+#~ "Non ci sono dati al momento. Clicca sul pulsante \"Aggiorna\" per "
+#~ "generare un database con tutti i link interni del tuo sito."

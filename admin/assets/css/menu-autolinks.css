@@ -1,0 +1,24 @@
+table.daext-items .icons-container{
+    width: 48px !important;
+    min-width: 48px !important;
+}
+
+#left-boundary-string-container,
+#right-boundary-string-container{
+    display: none;
+}
+
+table.daext-items th:nth-child(1),
+table.daext-items td:nth-child(1){
+    max-width: 440px;
+}
+
+table.daext-items th:nth-child(2),
+table.daext-items td:nth-child(2){
+    max-width: 440px;
+}
+
+.no-search-results{
+    margin-top: 11px;
+    margin-bottom: 36px;
+}

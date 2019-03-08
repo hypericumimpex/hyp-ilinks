@@ -1,0 +1,50 @@
+table.daext-items .icons-container{
+    width: 24px !important;
+    min-width: 24px !important;
+}
+
+.juice-container{
+    width: calc(100% - 300px);
+    float: left;
+}
+
+.sidebar-container{
+    margin-left: 20px;
+    float: right;
+    width: 280px;
+}
+
+#ajax-loader{
+    display: none;
+    margin-top: 5px;
+    margin-left: 6px;
+}
+
+#juice-relative-container{
+    height: 12px;
+    border: 1px solid #0073aa;
+    width: 140px;
+}
+
+#juice-relative{
+    height: 12px;
+    background: #0073aa;
+}
+
+table.daext-items .download{
+    background: url("../img/download.png") 0 0 no-repeat !important;
+}
+
+table.daext-items .download:hover{
+    background: url("../img/download-hover.png") 0 0 no-repeat !important;
+}
+
+table.daext-items td:nth-child(4),
+table.daext-items td:nth-child(4){
+    width: 142px;
+}
+
+table.daext-items th:nth-child(1),
+table.daext-items td:nth-child(1){
+    max-width: 440px;
+}
